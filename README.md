@@ -5,7 +5,7 @@
 1. [Información General](#información-general)
 2. [Instalación](#instalación)
 3. [Tecnologías](#tecnologías)
-4. Enlaces: (#enlaces)
+4. [Enlaces](#enlaces)
 5. [Autor](#autor)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ El taller fue desarrollado usando.
 
 ### Enlaces  
 
-1. Enlace del función de la aplicación subido a YouTube: https://youtu.be/y5XaLqb6TJw
+1. Enlace del funcionamiento de la aplicación subido a YouTube: https://youtu.be/y5XaLqb6TJw
 
 2. Enlace del repositorio GitHub:  https://github.com/Mendoalon/Taller-2-Abstracciones-y-polimorfismo.git
 
